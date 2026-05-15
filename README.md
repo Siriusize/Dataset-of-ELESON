@@ -3,15 +3,16 @@ For the dataset along with "Elevator, Escalator, or Neither? Classifying Conveyo
 <br>
 Paper can be accessed at https://ieeexplore.ieee.org/document/11072382/.   
 ### Citation:<br> 
+‘’‘
 @article{he2025elevator,  
-&nbsp title={Elevator, Escalator, or Neither? Classifying Conveyor State Using Smartphone under Arbitrary Pedestrian Behavior},  
-&nbsp author={He, Tianlang and Xia, Zhiqiu and Chan, S-H Gary},  
-&nbsp journal={IEEE Trans. on Mobil. Comput.},  
-&nbsp year={2025},  
-&nbsp publisher={IEEE}，  
-&nbsp volume={24},  
-&nbsp number={11},   
-&nbsp pages={12626 - 12639},   
-&nbsp doi={10.1109/TMC.2025.3586618}  
-}  
+  title={Elevator, Escalator, or Neither? Classifying Conveyor State Using Smartphone under Arbitrary Pedestrian Behavior},  
+  author={He, Tianlang and Xia, Zhiqiu and Chan, S-H Gary},  
+  journal={IEEE Trans. on Mobil. Comput.},  
+  year={2025},  
+  publisher={IEEE}，  
+  volume={24},  
+  number={11},   
+  pages={12626 - 12639},   
+  doi={10.1109/TMC.2025.3586618}  
+}  ’‘’
 
