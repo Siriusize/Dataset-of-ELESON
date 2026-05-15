@@ -2,7 +2,6 @@
 For the dataset along with "Elevator, Escalator, or Neither? Classifying Conveyor State Using Smartphone under Arbitrary User Behavior", please see: https://www.scidb.cn/en/anonymous/cnlJWm5l.   
 <br>
 Paper can be accessed at https://ieeexplore.ieee.org/document/11072382/.   
-<br>
 ### Citation:<br> 
 @article{he2025elevator,  
   title={Elevator, Escalator, or Neither? Classifying Conveyor State Using Smartphone under Arbitrary Pedestrian Behavior},  
