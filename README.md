@@ -3,7 +3,7 @@ For the dataset along with "Elevator, Escalator, or Neither? Classifying Conveyo
 <br>
 Paper can be accessed at https://ieeexplore.ieee.org/document/11072382/.   
 <br>
-###Citation:<br> 
+### Citation:<br> 
 @article{he2025elevator,  
   title={Elevator, Escalator, or Neither? Classifying Conveyor State Using Smartphone under Arbitrary Pedestrian Behavior},  
   author={He, Tianlang and Xia, Zhiqiu and Chan, S-H Gary},  
